@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Ajay Parkhe</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/sakshi0108/Sakshi0108"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Sakshi Parkhe;I+am+Engineering+student;ReactJs+Developer;MERN+Stack+Enthusiast"></a>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi0108&label=Profile%20views&color=0e75b6&style=flat" alt="abhisonar" /> </p>
 
